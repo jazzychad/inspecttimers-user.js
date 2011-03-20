@@ -3,7 +3,6 @@
 // @namespace     http://jazzychad.net/
 // @description   Logs information about javascript setTimeout and setInterval calls. Use with caution!
 // @include       *
-// @include       *
 // ==/UserScript==
 
 var go = function(window){
